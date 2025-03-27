@@ -1,0 +1,137 @@
+body{
+    background-color:rgb(243, 230, 216) ;
+}
+.box{
+    width: 550px;
+    height: 1400px;
+    background-color: white;
+    margin: 103px auto;
+    inset: 0;
+    border-radius: 10px;
+}
+img{
+    width:90%;
+    border-radius: 10px;
+    margin:30px;
+}
+h1{
+margin-left: 30px;
+margin-top: -20px;
+color:rgb(48, 45, 44) ;
+}
+.box p{
+    color: gray;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-top: -15px;
+}
+h3{
+    color:rgb(133, 70, 50);
+    margin-left: 30px;
+    margin-top: -15px;
+}
+.time{
+   margin-left: 25px;
+    margin-top: 2px;
+    background-color:rgb(255, 245, 250) ;
+    color: gray;
+    line-height: 1.5;
+}
+.time li{
+    color: gray;
+    line-height: 1.5;
+    margin-left: -25px;
+}
+h2{
+    color:rgb(133, 70, 50) ;
+    margin-left: 30px;
+    margin-top: 4px;
+
+}
+.pink{
+    background-color:rgb(255, 245, 250) ;
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-top: 3px;
+    border-radius: 10px;
+    height: 140px;
+    justify-content: center;
+
+}
+.pink li::marker{
+    color: rgb(133, 70, 50) ;
+    font-weight: bolder;
+    font-size: medium;
+}
+.pink h3{
+    color:rgb(123, 40, 79);
+    margin-left: 10px;
+    margin-top: 9px;
+    font-size:25px;
+}
+strong{
+color: rgb(95, 87, 78);
+font-weight: 900px;
+    
+}
+.ingredients{
+    margin-left: 30px;
+    margin-top: 10px;
+}
+.ingredients li{
+    color: gray;
+    line-height: 1.5;
+    margin-left: -25px;
+}
+.ingredients li::marker{
+    color: rgb(133, 70, 50) ;
+    font-weight: bolder;
+    font-size: medium;
+}
+.instruction{
+    margin-left: 30px;
+    margin-top: 10px;
+}
+.facts{
+    margin-left: 30px;
+    margin-top: 10px;
+}
+.facts li{
+    color: gray;
+    line-height: 1.5;
+    margin-left: -25px;
+    margin-top: -10px;
+    word-spacing: 250px;
+    list-style: none;
+}
+.instruction li{
+    color: gray;
+    line-height: 1.75;
+    margin-left: -25px;
+    margin-top: -4px;
+    list-style-type: style color rgb(123, 40, 79) ;
+}
+.instruction li::marker{
+    color: rgb(133, 70, 50) ;
+    font-weight: bolder;
+    font-size: medium;
+}
+.facts hr{
+    margin-left: -45px;
+    margin-right: 30px;
+    margin-top: 10px;
+    color:rgb(243, 230, 216);
+}
+hr{
+    margin-left: 21px;
+    margin-right: 30px;
+    margin-top: 10px;
+    color: rgb(243, 230, 216);
+}
+h6{
+    color:gray;
+    margin-left: 30px;
+    margin-top: -7px;
+    font-size: 13px;
+    font-weight: 200;
+}
