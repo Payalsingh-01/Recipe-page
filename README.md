@@ -1,1 +1,3 @@
-# Recipe-page Omellate recipe page using html and css
+# Recipe-page Omellete recipe page using html and css
+# beginner project
+# frontend mentor chalenge-2
